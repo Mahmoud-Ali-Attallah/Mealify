@@ -1,0 +1,6 @@
+.parent{
+    display: grid;
+    grid-template-columns: 200px 100px 20px 15%;
+    grid-template-columns: 25% 10% 5%;
+    grid-template-columns: repeat(4 , 10%);
+}
